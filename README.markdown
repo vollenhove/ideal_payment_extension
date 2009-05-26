@@ -1,3 +1,3 @@
 = Ideal Payment Extension
 
-Description goes here
+Provides a payment gateway for Ideal payments.
